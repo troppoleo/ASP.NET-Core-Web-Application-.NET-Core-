@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{829A6867-5704-40E5-BB39-5F03D89B377F}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		LEGGIMI.txt = LEGGIMI.txt
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Learn1", "src\Learn1\Learn1.xproj", "{817ECF0B-2879-41BC-AD97-5595D03ED1C8}"

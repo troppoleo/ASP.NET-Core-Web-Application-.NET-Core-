@@ -1,0 +1,7 @@
+seguendo il sito:
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc
+
+Frm 4.5.2
+ASP.NET Core Web Application (.NET)
+> Web Application
+
